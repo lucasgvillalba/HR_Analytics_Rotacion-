@@ -26,4 +26,4 @@ Identificar patrones en los datos de Recursos Humanos que permitan predecir si u
 ## 📁 Archivos
 - `Analisis_Rotacion_Personal_FINAL.pdf`: informe completo con gráficos y conclusiones.
 - `HR_Analytics_Notebook.ipynb`: notebook con el código del análisis.
-- `empleados.csv`: dataset original (ficticio).
+- `WA_Fn-UseC_-HR-Employee-Attrition.csv`: dataset original.
